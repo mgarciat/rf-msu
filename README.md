@@ -7,5 +7,5 @@ García-Torres, M., Saucedo, F., Divina, F., & Gómez-Guerrero, S. (2025). RFMSU
 This folder contains the RFMSU and RandomTreeMSU codes. Both classes have to be added into the weka/classifiers/tree folder and add the libraries that you will find at lib folder. 
 # lib
 This folder contains the libraries necessary to run RFMSU class.
-# project.
+# project
 Contains a Netbeans project to see an example of how to run RFMSU. 
